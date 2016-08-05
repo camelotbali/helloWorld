@@ -1,2 +1,2 @@
-//Test file for GitHub - master repository
+//Test file for GitHub - TestBranches repository
 
